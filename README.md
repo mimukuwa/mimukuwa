@@ -17,7 +17,7 @@ I'm a developer interested in <b>game development</b>, <b>programming</b> and <b
 ### Pinned Repositories
 
 <p align="center">
-  <a href="https://github.com/mimukuwa/mimukuwa">
+  <a href="https://github.com/mimukuwa/Pixel-Gun-3D-Colorbot">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=mimukuwa&repo=mimukuwa&theme=tokyonight&hide_border=true" />
   </a>
   <a href="https://github.com/mimukuwa/Pixel-Gun-3D-Colorbot">
