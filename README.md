@@ -22,6 +22,19 @@ I enjoy building projects, understanding how things work and learning through pr
 ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
 ![Roblox Studio](https://img.shields.io/badge/Roblox_Studio-00A2FF?style=for-the-badge&logo=robloxstudio&logoColor=white)
 
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mimukuwa&show_icons=true&theme=tokyonight&hide_border=true" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mimukuwa&layout=compact&theme=tokyonight&hide_border=true" height="165">
+</p>
+
+## Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mimukuwa&theme=tokyo-night&hide_border=true">
+</p>
+
 ## Fun Facts
 
 - I have 2 cats
