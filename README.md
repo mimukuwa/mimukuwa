@@ -18,10 +18,10 @@ I'm a developer interested in <b>game development</b>, <b>programming</b> and <b
 
 <p align="center">
   <a href="https://github.com/mimukuwa/Pixel-Gun-3D-Colorbot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mimukuwa&repo=mimukuwa&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=mimukuwa&repo=Pixel-Gun-3D-Colorbot&theme=tokyonight&hide_border=true" />
   </a>
-  <a href="https://github.com/mimukuwa/Pixel-Gun-3D-Colorbot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mimukuwa&repo=Pixel-Gun-3D-Colorbot&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/mimukuwa/mimukuwa">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=mimukuwa&repo=mimukuwa&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
