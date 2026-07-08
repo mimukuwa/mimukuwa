@@ -1,4 +1,4 @@
-# Hey, I'm Mimukuwa 👋
+# Hey, I'm Mimukuwa 
 
 I'm a developer interested in game development, programming and cybersecurity.
 
@@ -10,7 +10,7 @@ I'm a developer interested in game development, programming and cybersecurity.
 
 I enjoy building projects, understanding how things work and learning through practice.
 
-# Fun Facts 🐱
+# Fun Facts 
 
 -  I have 2 cats
 -  I am very curious and I love understanding how things work
