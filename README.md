@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Mimukuwa+%F0%9F%91%8B;Game+Developer;Cybersecurity+Enthusiast;Always+Learning+%2B+Building" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Mimukuwa;Game+Developer;Cybersecurity+Enthusiast;Always+Learning+%2B+Building" alt="Typing SVG" />
 
 <p align="center">
   <img src="https://img.shields.io/badge/Game_Development-8A2BE2?style=for-the-badge&logo=unity&logoColor=white" />
@@ -14,17 +14,30 @@ I'm a developer interested in <b>game development</b>, <b>programming</b> and <b
 
 <br>
 
-### 🚀 About Me
+### Pinned Repositories
 
-- 🎮 Roblox developer using **Lua**
-- 🕹️ Unreal Engine developer using **C++** and **Blueprints**
-- 🐍 Basic knowledge of **C++** and **Python**
-- 🔐 Former cybersecurity student with an interest in reverse engineering
-- 📚 Always learning and improving my skills
+<p align="center">
+  <a href="https://github.com/mimukuwa/mimukuwa">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mimukuwa&repo=mimukuwa&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/mimukuwa/Pixel-Gun-3D-Colorbot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mimukuwa&repo=Pixel-Gun-3D-Colorbot&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
 
 <br>
 
-### 🛠️ Languages & Tools
+### About Me
+
+- Roblox developer using **Lua**
+- Unreal Engine developer using **C++** and **Blueprints**
+- Basic knowledge of **C++** and **Python**
+- Former cybersecurity student with an interest in reverse engineering
+- Always learning and improving my skills
+
+<br>
+
+### Languages & Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
@@ -40,7 +53,7 @@ I'm a developer interested in <b>game development</b>, <b>programming</b> and <b
 
 <br>
 
-### 📊 GitHub Metrics
+### GitHub Metrics
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/mimukuwa/mimukuwa/main/github-metrics.svg" />
@@ -48,7 +61,7 @@ I'm a developer interested in <b>game development</b>, <b>programming</b> and <b
 
 <br>
 
-### 📈 Stats & Activity
+### Stats & Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mimukuwa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165" />
@@ -65,7 +78,7 @@ I'm a developer interested in <b>game development</b>, <b>programming</b> and <b
 
 <br>
 
-### 🐍 Contribution Snake
+### Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/mimukuwa/mimukuwa/output/github-contribution-grid-snake-dark.svg" />
@@ -73,11 +86,11 @@ I'm a developer interested in <b>game development</b>, <b>programming</b> and <b
 
 <br>
 
-### 🎲 Fun Facts
+### Fun Facts
 
-- 🐱 I have 2 cats
-- 🔎 I am very curious and I love understanding how things work
-- 🕸️ I love cosplaying
+- I have 2 cats
+- I am very curious and I love understanding how things work
+- I love cosplaying
 
 <br>
 
